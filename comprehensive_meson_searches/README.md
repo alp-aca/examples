@@ -13,6 +13,7 @@ This folder collects the code used in our paper analyzing the impact of ALPs wit
 * [ALP-EFT Analysis: 1 coefficient (Section 6.2)](06_03_One_coef_plot.ipynb)
 * [ALP-EFT Analysis: 2 coefficients (Section 6.2)](06_03b_2wilson_plots_tutorial.ipynb)
 * [Scrutinizing the Belle II $B^+\to K^+\nu\bar{\nu}$ excess (Section 6.4)](06_04_Scrutinizing_Belle2_ALP.ipynb)
+* [$B^+\to K^+ a$ and $P_\mathrm{inv}$ for UV models (Section 6.4)](06_04b_darksectors.ipynb)
 * [Running of the Wilson coefficients generated when matching UV models (Appendix A)](appA_running_models.ipynb)
 
 ## Citing
