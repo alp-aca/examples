@@ -6,6 +6,7 @@ ALPaca is the ALP Automatic Computing Algorithm, the open-source python library 
 
 This repository contains useful tutorials and examples of ALPaca:
 
+* [ALPaca manual](manual/README.md)
 * [Comprehensive ALP Searches in Meson Decays](comprehensive_meson_searches/README.md)
 
 ## Citing
