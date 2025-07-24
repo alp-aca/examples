@@ -6,6 +6,7 @@ Here you can find the examples from the ALPaca manual.
 
 * [Chapter 3: Defining the ALP couplings, running and matching](03_ALP_couplings.ipynb)
 * [Chapter 4: UV-complete models](04_uvmodels.ipynb)
+* [Chapter 5: ALP processes](05_alpprocesses.ipynb)
 
 ## Citing
 
