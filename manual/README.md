@@ -8,6 +8,7 @@ Here you can find the examples from the ALPaca manual.
 * [Chapter 4: UV-complete models](04_uvmodels.ipynb)
 * [Chapter 5: ALP processes](05_alpprocesses.ipynb)
 * [Chapter 6: Experimental ALP searches](06_experimental_searches.ipynb)
+* [Chapter 7: Statistics](07_statistics.ipynb)
 
 ## Citing
 
