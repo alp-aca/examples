@@ -1,0 +1,10 @@
+description: B -> K inv and K -> pi inv observables.
+name: MesonsInv
+obs_measurements: {}
+observables:
+- B+ -> K+ alp
+- B0 -> K0 alp
+- KL -> alp pion0
+- B+ -> K*+ alp
+- K+ -> alp pion+
+tex: $M_1 \to M_2 + \mathrm{inv}$

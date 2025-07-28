@@ -1,0 +1,24 @@
+description: Belle II measurements implemented in ALPaca.
+name: Belle II
+obs_measurements:
+  B+ -> K+ alp: !!set
+    Belle II: null
+  B+ -> K+ muon muon: !!set
+    Belle II: null
+  tau -> electron electron electron electron: !!set
+    Belle II: null
+  tau -> electron electron muon: !!set
+    Belle II: null
+  tau -> electron muon muon muon: !!set
+    Belle II: null
+  tau -> muon muon muon: !!set
+    Belle II: null
+observables:
+- B+ -> K+ electron electron
+- tau -> alp electron
+- - electron electron -> photon photon photon
+  - 111.9364
+- tau -> alp muon
+- B0 -> K*0 electron electron
+- delta_mB0
+tex: $\mathrm{Belle II}$ bounds
