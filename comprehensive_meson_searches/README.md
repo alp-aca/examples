@@ -1,5 +1,7 @@
 # Comprehensive ALP Searches in Meson Decays
 
+[![arxiv](https://img.shields.io/badge/arXiv-2507.19578_[hep--ph]-B31B1B.svg?style=flat&logo=arxiv&logoColor=B31B1B)](https://arxiv.org/abs/2507.19578)
+
 This folder collects the code used in our paper analyzing the impact of ALPs with $m_a \sim \mathcal{O}(\mathrm{GeV})$ in meson decays.
 
 ## Contents
@@ -21,10 +23,15 @@ This folder collects the code used in our paper analyzing the impact of ALPs wit
 If you want to use any of the results in this folder, or adapt the examples shown, please include the following citation:
 
 ```bibtex
-@article{ALPaca:2025Pheno,
-    author = "Alda, J. and Fuentes Zamoro, M., and Merlo, L., and Ponce Diaz, X., and Rigolin, S.",
-    title = "Comprehensive ALP Searches in Meson Decays",
-    journal = "In preparation."
+@article{Alda:2025uwo,
+    author = "Alda, Jorge and Fuentes Zamoro, Marta and Merlo, Luca and Ponce D{\'\i}az, Xavier and Rigolin, Stefano",
+    title = "{Comprehensive ALP Searches in Meson Decays}",
+    eprint = "2507.19578",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "IFT-UAM/CSIC-25-55",
+    month = "7",
+    year = "2025"
 }
 ```
 
@@ -35,5 +42,20 @@ and do not forget to cite ALPaca itself!
     author = "Alda, J. and Fuentes Zamoro, M., and Merlo, L., and Ponce Diaz, X., and Rigolin, S.",
     title = "ALPaca: the ALP Automatic Computing Algorithm",
     journal = "In preparation."
+}
+
+@software{alda_2025_16447037,
+  author       = {Alda, Jorge and
+                  Fuentes Zamoro, Marta and
+                  Merlo, Luca and
+                  Rigolin, Stefano and
+                  Ponce Díaz, Xavier},
+  title        = {ALPaca v1.0},
+  month        = jul,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0-alpha.1},
+  doi          = {10.5281/zenodo.16447037},
+  url          = {https://doi.org/10.5281/zenodo.16447037},
 }
 ```
