@@ -10,6 +10,7 @@ Here you can find the examples from the ALPaca manual.
 * [Chapter 6: Experimental ALP searches](06_experimental_searches.ipynb)
 * [Chapter 7: Statistics](07_statistics.ipynb)
 * [Chapter 8: Plotting](08_plotting.ipynb)
+* [Chapter 9: Managing bibliography and references](09_citations.ipynb)
 
 ## Citing
 
