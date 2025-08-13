@@ -1,5 +1,7 @@
 # ALPaca manual
 
+[![arxiv](https://img.shields.io/badge/arXiv-2508.08354_[hep--ph]-B31B1B.svg?style=flat&logo=arxiv&logoColor=B31B1B)](https://arxiv.org/abs/2508.08354)
+
 Here you can find the examples from the ALPaca manual.
 
 ## Contents
@@ -17,10 +19,15 @@ Here you can find the examples from the ALPaca manual.
 If you use ALPaca in your publications, do not forget to use the following reference:
 
 ```bibtex
-@article{ALPaca:2025Manual,
-    author = "Alda, J. and Fuentes Zamoro, M., and Merlo, L., and Ponce Diaz, X., and Rigolin, S.",
-    title = "ALPaca: the ALP Automatic Computing Algorithm",
-    journal = "In preparation."
+@article{Alda:2025nsz,
+    author = "Alda, Jorge and Fuentes Zamoro, Marta and Merlo, Luca and Ponce D{\'\i}az, Xavier and Rigolin, Stefano",
+    title = "{ALPaca: The ALP Automatic Computing Algorithm}",
+    eprint = "2508.08354",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "IFT-UAM/CSIC-25-82",
+    month = "8",
+    year = "2025"
 }
 
 @software{alda_2025_16447037,
