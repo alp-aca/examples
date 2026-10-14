@@ -8,6 +8,7 @@ This repository contains useful tutorials and examples of ALPaca:
 
 * [ALPaca manual](manual/README.md)
 * [Comprehensive ALP Searches in Meson Decays](comprehensive_meson_searches/README.md)
+* [ALP interactions with mesons and baryons at $\mathcal{O}(1/f_a)$: a general field redefinition invariant approach](baryons/README.md)
 
 ## Citing
 
